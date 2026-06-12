@@ -28,3 +28,4 @@ print(equal)
 
 
 ## Result
+Thus, the program that handles an IndexError when trying to access an element beyond the available range of a list was executed successfully.
